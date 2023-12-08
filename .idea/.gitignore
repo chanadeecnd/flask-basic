@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.xml
+.iml
+misc.xml
+modules.xml
+vcs.xml
+flask-basic.iml
+inspectionProfiles
